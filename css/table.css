@@ -1,0 +1,9 @@
+.table {
+    table-layout: fixed;
+}
+.cell {
+    border: 1px solid black;
+}
+.table__row {
+    border: 1px solid black;
+}
